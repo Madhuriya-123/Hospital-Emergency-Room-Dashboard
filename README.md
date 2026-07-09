@@ -144,7 +144,6 @@ Hospital-Emergency-Room-Dashboard/
 │
 ├── Hospital_Emergency_Room_Dashboard.pbix
 ├── Hospital_ER_Dataset.xlsx
-├── dashboard.pdf
 ├── README.md
 │
 ├── Images/
@@ -154,8 +153,12 @@ Hospital-Emergency-Room-Dashboard/
 │   └── Key_Takeaways.png
 │
 └── Assets/
-    ├── hospital_logo.png
-    └── Background.png
+    ├── Hospital_logo.png
+    ├── Patient.png
+    ├── Time.png
+    ├── Rating.png
+    └── Patient_Referred.png
+
 ```
 
 ---
